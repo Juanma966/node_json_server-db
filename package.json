@@ -1,0 +1,12 @@
+{
+  "name": "practica_json-server",
+  "version": "0.0.1",
+  "description": "creating on server course info",
+  "main": "app.js",
+  "scripts": {
+    "start":"json-server --watch db.json"
+  },
+  "author": "juanmaoro-dev",
+  "license": "ISC"
+}
+
